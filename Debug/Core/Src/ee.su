@@ -1,0 +1,7 @@
+ee.c:180:6:ee_init	8	static
+ee.c:189:6:ee_format	40	static
+ee.c:231:6:ee_read	32	static
+ee.c:250:6:ee_write	104	static
+ee.c:299:6:ee_writeToRam	24	static
+ee.c:313:7:ee_commit	8	static
+ee.c:324:11:ee_maxVirtualAddress	4	static
